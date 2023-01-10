@@ -1,2 +1,2 @@
 # leetcode-daily
-Practicing data structure and algorithm learnings daily on leetcode. 
+Practicing data structures and algorithm learnings daily on leetcode. 
